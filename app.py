@@ -2,7 +2,7 @@
 # 🌾 AI Smart Farming Decision System
 # =========================================
 
-import streamlit as st
+import streamlit as st  
 import pickle
 import pandas as pd
 import matplotlib.pyplot as plt
